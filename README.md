@@ -7,5 +7,4 @@
 
 ## Table of Contents
 *
-
-+[DAY 1](#DAY-1)
+ +[DAY 1](#DAY-1)
