@@ -49,6 +49,16 @@ generaly output pin or register data pin
 Element that have no memory or internal state
 Difrent path can have diffrent dealy
 
+### Setup check
+- Data should be avilable at the input of sequential device before clock edge that capture the data
+- this inforce max dealy on the data path
+- setup time of a flop
+is indepent on the technology node 
+valu is availbale in logic libraary
+
+
+
+
 
 
 
