@@ -65,9 +65,11 @@ valu is availbale in logic libraary
 ![image](https://user-images.githubusercontent.com/120499567/219909140-bb78f564-7419-4e38-86b0-ca15ee6d96eb.png)
 
 ## Setup slack calulation
+
 - Setup slack = Data required time - Data arrival time
 
 Data arrival time
+
 ![image](https://user-images.githubusercontent.com/120499567/219931645-11d4bb2a-11f6-4185-90b7-b75faa005643.png)
 
 
