@@ -61,6 +61,9 @@ valu is availbale in logic libraary
 
 ![image](https://user-images.githubusercontent.com/120499567/219909011-5283c87a-0f9c-4aa5-ae64-aaba8eb36322.png)
 
+![image](https://user-images.githubusercontent.com/120499567/219909140-bb78f564-7419-4e38-86b0-ca15ee6d96eb.png)
+
+
 
 
 
