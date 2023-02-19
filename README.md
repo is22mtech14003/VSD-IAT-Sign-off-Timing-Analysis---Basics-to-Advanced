@@ -93,6 +93,47 @@ that is if slack is negative that means you dont get meet time then what we will
 
 so the first command is `constraints for timing`
 
+![image](https://user-images.githubusercontent.com/120499567/219933097-3555ed41-6a16-41b1-a447-e3b20ce1a57d.png)
+
+`Area and power`
+
+![image](https://user-images.githubusercontent.com/120499567/219933160-0c48c23e-e1cc-4943-8635-ffd3f2118e3c.png)
+
+`constraint for desine rule`
+
+![image](https://user-images.githubusercontent.com/120499567/219933214-c660dcaf-70ec-4943-b964-176ef651e8d6.png)
+
+### create_clock 
+
+![image](https://user-images.githubusercontent.com/120499567/219933641-63849b83-8b98-434c-92a8-810f9e70d5ec.png)
+
+![image](https://user-images.githubusercontent.com/120499567/219933713-f0c88577-9dac-4b2e-8f03-81dc953765e8.png)
+
+if waveform is not specified then by deault it will take 50 % duty cycle
+
+#### create_clock - add switch
+with this we can give the clock more than one clock 
+
+![image](https://user-images.githubusercontent.com/120499567/219933866-5528bffe-5591-4e71-a2d0-7830a5aca158.png)
+
+#### Create_generated_clock
+we can generate the clock from the parent clock by dividing and multiplication
+
+![image](https://user-images.githubusercontent.com/120499567/219934235-51795d89-02fb-4342-b6c9-d1e38164adfe.png)
+
+![image](https://user-images.githubusercontent.com/120499567/219934476-9ea32270-ab80-49bd-9ef7-9056249e89bb.png)
+
+![image](https://user-images.githubusercontent.com/120499567/219934648-855433aa-e672-4097-a1a7-fbb1e44d3dbb.png)
+
+![image](https://user-images.githubusercontent.com/120499567/219934781-cf0686dd-1f9c-4dfc-a617-6eea6482ff60.png)
+
+so the we generate difrent types of clock path and from this pick up the worst case for STA analysis
+
+
+
+
+
+
 
 
 
