@@ -55,6 +55,11 @@ Difrent path can have diffrent dealy
 - setup time of a flop
 is indepent on the technology node 
 valu is availbale in logic libraary
+![image](https://user-images.githubusercontent.com/120499567/219908887-f133db57-7897-4ef3-b0de-950408b9804d.png)
+
+### Hold check
+
+![image](https://user-images.githubusercontent.com/120499567/219909011-5283c87a-0f9c-4aa5-ae64-aaba8eb36322.png)
 
 
 
