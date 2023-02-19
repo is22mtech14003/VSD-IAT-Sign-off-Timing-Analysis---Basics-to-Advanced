@@ -67,8 +67,9 @@ valu is availbale in logic libraary
 ## Setup slack calulation
 - Setup slack = Data required time - Data arrival time
 
- Data arrival time
+Data arrival time
 ![image](https://user-images.githubusercontent.com/120499567/219931645-11d4bb2a-11f6-4185-90b7-b75faa005643.png)
+
 
 Required Time 
 The signal should arrive before required time
