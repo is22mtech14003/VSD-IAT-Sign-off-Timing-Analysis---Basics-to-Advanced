@@ -128,6 +128,21 @@ we can generate the clock from the parent clock by dividing and multiplication
 ![image](https://user-images.githubusercontent.com/120499567/219934781-cf0686dd-1f9c-4dfc-a617-6eea6482ff60.png)
 
 so the we generate difrent types of clock path and from this pick up the worst case for STA analysis
+### Port Delays
+`set_input_delay`
+`set_output_delay`
+
+![image](https://user-images.githubusercontent.com/120499567/219935379-c544394a-dc80-4a01-b7ee-8c2c5c85dc1e.png)
+
+![image](https://user-images.githubusercontent.com/120499567/219935528-c93cf989-8184-4e18-81af-23bd6f996d1c.png)
+
+here we defind how fast input side transiation 
+
+![image](https://user-images.githubusercontent.com/120499567/219935642-fddf3d8e-cda0-4c59-9c23-4757eb49f291.png)
+
+how fast output is transition 
+
+
 
 
 
