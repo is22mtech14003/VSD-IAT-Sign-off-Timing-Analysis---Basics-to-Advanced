@@ -45,6 +45,8 @@ where data is captured by clock edge
 or where the data must be avaiable at a specific time
 generaly output pin or register data pin
 
+- combinational logic
+Element that have no memory or internal state
 
 
 
