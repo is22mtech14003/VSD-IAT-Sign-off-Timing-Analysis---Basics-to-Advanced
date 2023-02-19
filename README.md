@@ -47,6 +47,9 @@ generaly output pin or register data pin
 
 - combinational logic
 Element that have no memory or internal state
+Difrent path can have diffrent dealy
+
+
 
 
 
