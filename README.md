@@ -75,7 +75,8 @@ Required Time
 The signal should arrive before required time
 
 ### Slack
-Difrence between required time and arrival time
+Difrence between required time and arrival time.
+
 ![image](https://user-images.githubusercontent.com/120499567/219931897-f7600a11-2660-4ab3-a350-2250adfe5271.png)
 
 ![image](https://user-images.githubusercontent.com/120499567/219931957-1cf7e06d-9695-4759-a847-3eeb924f4765.png)
