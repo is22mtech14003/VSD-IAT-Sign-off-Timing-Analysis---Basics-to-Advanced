@@ -38,10 +38,10 @@ Fast and large capacity, does not using dynamic logic simulation
 
 ## Timing path Elements
 - Startpoint
-- 
 Typically startpoint is data pin or input pin where data is available
 
 - Endpoint
+
 where data is captured by clock edge
 
 or where the data must be avaiable at a specific time
