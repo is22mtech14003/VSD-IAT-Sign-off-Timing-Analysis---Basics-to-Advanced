@@ -169,6 +169,13 @@ Negative Slack violating
 
 ![5 neg slack](https://user-images.githubusercontent.com/120499567/220129567-10fc7ea2-36ca-47a7-bddc-f95c3b717849.png)
 
+Here meet slack
+
+![5 neg slack](https://user-images.githubusercontent.com/120499567/220129567-10fc7ea2-36ca-47a7-bddc-f95c3b717849.png)
+
+# DAY 2 Theory
+
+
 
 
 
