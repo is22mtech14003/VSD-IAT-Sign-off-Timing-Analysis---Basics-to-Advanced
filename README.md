@@ -142,6 +142,31 @@ here we defind how fast input side transiation
 
 how fast output is transition 
 
+## DAY 1 LAB
+Inputs to OpenSTA
+The inputs to the opentimer are design, standard cells associated with the netlist and the constraints.
+
+Here verliog file
+
+![Screenshot 2023-02-20 162639](https://user-images.githubusercontent.com/120499567/220127778-2bb0c353-8ceb-44d4-aec7-a0ec590a782c.png)
+
+## Constraints creation - Defining clock
+Clocks are defined using create_clock command
+Lets define a clock with period 50 on port tau2015_clk
+create_clock –period 50 –name tau2015_clk [get_ports tau2015_clk]
+The SDC file provided for the lab. This consists of the clock period, IO delays, input transition and capacitance delays.
+![2](https://user-images.githubusercontent.com/120499567/220128387-46eb6528-cb97-4cf4-a6cb-8a41cddae25e.png)
+
+OpenTimer Run script
+
+![3](https://user-images.githubusercontent.com/120499567/220128938-6d04b272-c922-4714-be06-626dcc9e34c0.png)
+
+![runscript file4](https://user-images.githubusercontent.com/120499567/220129206-6173646f-8545-4d38-898c-1b1f78827eca.png)
+
+
+
+
+
 
 
 
