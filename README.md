@@ -171,7 +171,8 @@ Negative Slack violating
 
 Here meet slack
 
-![5 neg slack](https://user-images.githubusercontent.com/120499567/220129567-10fc7ea2-36ca-47a7-bddc-f95c3b717849.png)
+![pos slack](https://user-images.githubusercontent.com/120499567/220132009-586e0774-78d9-444b-8fea-8e396b2045c5.png)
+
 
 # DAY 2 Theory
 
