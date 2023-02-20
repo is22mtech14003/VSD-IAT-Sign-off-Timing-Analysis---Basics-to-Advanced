@@ -161,7 +161,14 @@ OpenTimer Run script
 
 ![3](https://user-images.githubusercontent.com/120499567/220128938-6d04b272-c922-4714-be06-626dcc9e34c0.png)
 
+“run.tcl”
+
 ![runscript file4](https://user-images.githubusercontent.com/120499567/220129206-6173646f-8545-4d38-898c-1b1f78827eca.png)
+
+Negative Slack violating
+
+![5 neg slack](https://user-images.githubusercontent.com/120499567/220129567-10fc7ea2-36ca-47a7-bddc-f95c3b717849.png)
+
 
 
 
