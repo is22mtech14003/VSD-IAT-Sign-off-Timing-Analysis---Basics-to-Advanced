@@ -176,6 +176,47 @@ Here meet slack
 
 # DAY 2 Theory
 
+[Clock geeting](https://anysilicon.com/the-ultimate-guide-to-clock-gating/)
+STA also check Clock getting check and Asynchronus pin such as `clear preset set` and also check data to data pin which is skew ..
+Clock geting check on clock enable pin with respect to the clock pin
+and all of these are available in library and constraints file. 
+
+![image](https://user-images.githubusercontent.com/120499567/220355090-4261b77a-df6a-41b3-9e9d-8c1fb3aa94df.png)
+
+that is another set of check which are also done by STA which is desine by DRC
+
+Slew/Transition Analysis
+slew is nothing but time taken by a single which is rising by 30% of the Vdd to 70% of the Vdd that is known as rise slew 
+and by fallwing 70% to 30% is called fall slew
+and in the library their is max and min value and when STA run then check the meet condition and to verify work properly or not 
+
+![image](https://user-images.githubusercontent.com/120499567/220357172-007bfa33-5a29-43ee-9cdb-a716392ba847.png)
+
+Second category of check is Load Analysis
+- min and max capitance on ports and nets
+- Fanout load on ports and output pins
+
+STA also ceck the Clock Skew Analysis
+Slew and Skew both are diffrent thing 
+Skew is the diffrance in dealy of the clock at diffrent point. Skew is positive means captured clock is more dealy
+
+![image](https://user-images.githubusercontent.com/120499567/220360221-00c3a423-94ef-4f11-b008-7c5380dbf4b9.png)
+
+
+SKEW can also be negative 
+If lunch has more cealy then Captured 
+
+![image](https://user-images.githubusercontent.com/120499567/220361356-76a2a555-e4fd-48ff-86f5-3da3ac7bb72f.png)
+
+STA also check the Pulse width check
+Shrining the pulse due to this if shrinking beyound the limit which is defined in library then hapened pulse width violation
+
+![image](https://user-images.githubusercontent.com/120499567/220362408-cff4cee1-2e17-4765-82df-d8c5cdb6b570.png)
+
+
+
+
+
 
 
 
