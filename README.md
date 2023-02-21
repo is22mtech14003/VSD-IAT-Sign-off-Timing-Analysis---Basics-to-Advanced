@@ -213,6 +213,26 @@ Shrining the pulse due to this if shrinking beyound the limit which is defined i
 
 ![image](https://user-images.githubusercontent.com/120499567/220362408-cff4cee1-2e17-4765-82df-d8c5cdb6b570.png)
 
+## [Flop Based designs](https://www.vlsi-expert.com/2019/12/latch-based-timing-analysis-part-1.html)
+
+data is launched and captured on edges
+
+![image](https://user-images.githubusercontent.com/120499567/220367984-25405a26-3b9c-4290-91d3-380d2b507b71.png)
+
+![image](https://user-images.githubusercontent.com/120499567/220369064-1676a087-aa72-41fd-a3a3-4388b5c9cbc6.png)
+
+Latch Based designe allow more flexibility in timing 
+because latch is active for whole duration so that even data is come after the active of clock. it also captured the data
+so latch give the facility even data arive later the clock edge
+
+![image](https://user-images.githubusercontent.com/120499567/220372736-1c3c3f55-ea58-48a7-b5c3-cb99a3cf52cb.png)
+
+![image](https://user-images.githubusercontent.com/120499567/220373045-857cb807-8dbf-4d96-ac64-b768b60df2ef.png)
+
+
+
+
+
 
 
 
