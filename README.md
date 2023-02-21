@@ -277,6 +277,74 @@ Here slack is violated
 ![image](https://user-images.githubusercontent.com/120499567/220433872-4f4014e7-37a5-4a10-93d3-01f4c70e48f2.png)
 
 
+# DAY 3 Theory
+
+SETup Check
+
+![image](https://user-images.githubusercontent.com/120499567/220438877-3421bc7d-6547-40bd-96ad-4a5c050a99a1.png)
+
+Hold check
+- Data launched by setup launch edge must not be captured by privious capture edge
+- Data launched next launch edge must not be captured by curen capture edge
+
+![image](https://user-images.githubusercontent.com/120499567/220440772-5f6ea110-eb71-461a-9cfc-8f3b40e15f62.png)
+
+Timing Arcs
+Two types of timing arcs
+cell arcs, net arcs
+cell arcs are input to output conection which is defined in logical  library what the dealy ..
+Net arcs are the conection from one cell to another cell
+
+![image](https://user-images.githubusercontent.com/120499567/220446328-f6ec1cfd-0371-479e-95a8-1e09d152d907.png)
+
+Combinational arcs
+
+Sequential arcs
+
+![image](https://user-images.githubusercontent.com/120499567/220447830-5c8fba96-23de-4d9c-912e-1aba762b64df.png)
+
+positive unit arc 
+when input change and output follw the same direction
+Negative unit arc
+when input change output follow in the oposite direction
+
+Non unate
+when input change output may change in both dirction rise and fall
+
+
+## Cell Delays
+
+![image](https://user-images.githubusercontent.com/120499567/220450528-f818acbd-cf6a-42a6-a96c-ec48a2f7abea.png)
+
+Positive clock skew
+
+![image](https://user-images.githubusercontent.com/120499567/220451868-5200f7d7-783c-4cf5-a45e-4c80a374e92b.png)
+
+
+Negative Clock skew
+
+![image](https://user-images.githubusercontent.com/120499567/220452669-ca85ca06-5d1a-4b5f-8cd3-7fa4a053069d.png)
+
+
+Clock Latency
+
+![image](https://user-images.githubusercontent.com/120499567/220453315-26a0f44e-ca6e-45b7-974e-76e201007557.png)
+
+Clock Jitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
