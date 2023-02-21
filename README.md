@@ -229,6 +229,22 @@ so latch give the facility even data arive later the clock edge
 
 ![image](https://user-images.githubusercontent.com/120499567/220373045-857cb807-8dbf-4d96-ac64-b768b60df2ef.png)
 
+### Time borrowing
+
+Latch gives the facility to time borrow let asume first combinational ckt take more time even more than the one time period and other combination ckt takes less time even less than the one time period then second combinationl ckt gives the borrow to first combinational ckt
+
+![image](https://user-images.githubusercontent.com/120499567/220412885-74a06b3e-005c-445b-a72c-b14c81030173.png)
+
+STA Text Report
+
+![image](https://user-images.githubusercontent.com/120499567/220414158-e8865b0f-6b09-48c9-89eb-5ef507f9bbab.png)
+
+![image](https://user-images.githubusercontent.com/120499567/220415265-db34e3c5-3b9d-4e14-b058-414291608052.png)
+
+## Dat 2 LAB
+
+
+
 
 
 
