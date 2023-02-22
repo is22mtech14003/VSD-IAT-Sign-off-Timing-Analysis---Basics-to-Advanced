@@ -453,6 +453,38 @@ SET_CLOCK_GROUPS
 
 ![image](https://user-images.githubusercontent.com/120499567/220599502-b76dd4aa-ba7f-4cbc-89ff-12d59ebdd597.png)
 
+## Path specification comand(SDC comand)
+
+from the path specification we can modify the timing path from the ideal path which is set earlier
+
+![image](https://user-images.githubusercontent.com/120499567/220601365-27950b28-d4c7-46c2-bcf1-0c34c4eab978.png)
+
+we can modify from either 3 comand
+
+- From   is used for start point
+- To is used for end point
+- Through is used beetween the path from start point to end point
+from and to option can be used only one but through option can be used mpore than one because through give guide to many place
+
+set_fale_path
+
+![image](https://user-images.githubusercontent.com/120499567/220605199-e7b92af9-d0fa-4d2e-b030-5c26aeee9f7a.png)
+
+set_multicycle path
+
+![image](https://user-images.githubusercontent.com/120499567/220606222-88fd7762-8dfa-4ae7-ade7-e592e797a8d3.png)
+
+
+![image](https://user-images.githubusercontent.com/120499567/220607457-045857a9-44bf-42ca-958a-e6ae6a637ecf.png)
+
+
+
+
+
+
+
+
+
 
 
 
