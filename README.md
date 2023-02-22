@@ -404,7 +404,28 @@ Can differ from one wafer to other wafer and within the wafer can be vary one di
 
 ### Clock getting check
 
-![image](https://user-images.githubusercontent.com/120499567/220556886-c1fa8c97-eb08-449d-8adc-a46029d346b4.png)
+![image](https://user-images.githubusercontent.com/120499567/220556886-c1fa8c97-eb08-449d-8adc-a46029d346b4.png).
+
+![image](https://user-images.githubusercontent.com/120499567/220562953-e4b491f4-8eae-4575-8d7f-72b8a8ccfe61.png)
+
+![image](https://user-images.githubusercontent.com/120499567/220563320-2ac1b91b-8ce8-4119-9708-f90c9950d728.png)
+
+Async Pin checks
+
+Aseration is asynchronous event and no relation with clock 
+so asyn pin like reset and clear its not depend on clock, let asume active low clear pin high that means output goes to zero or clear and when active low clear pin is low then flop depend on the clock and this transition specified in the STA timing constraints.
+
+![image](https://user-images.githubusercontent.com/120499567/220567294-238e7f3f-355a-4e13-aec7-ff9bbf32086f.png)
+
+![image](https://user-images.githubusercontent.com/120499567/220568327-53267849-8420-499b-b6c7-8345f927aa6f.png)
+
+![image](https://user-images.githubusercontent.com/120499567/220568720-e2c1382b-b966-42ba-bce3-c75f939e0eb2.png)
+
+### Clock Groups
+
+![image](https://user-images.githubusercontent.com/120499567/220570297-01c00537-dfe3-4def-aa9c-3b99d39117ae.png)
+
+
 
 
 
