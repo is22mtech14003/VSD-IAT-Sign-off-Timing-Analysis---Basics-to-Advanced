@@ -354,6 +354,39 @@ Hold time with skew and jitter
 
 ![image](https://user-images.githubusercontent.com/120499567/220514259-40a99cb5-0e91-446c-b218-7b87c16510b5.png)
 
+Difrent Dealy value s on paths - Setup Check
+Captured path dealy should be minimum and lunch path dealy should be maximum dealy
+
+![image](https://user-images.githubusercontent.com/120499567/220515675-ba4964d4-5d54-42f0-b145-15273cac1287.png)
+
+Difrent Delay values on path - Hold Check
+Lunch path should be minimum and captured path should be maximum dealy
+
+![image](https://user-images.githubusercontent.com/120499567/220517170-ac2fe162-0122-4f6c-a19a-10c9385cf1b3.png)
+
+[Difrent delays causing pessimism](https://vlsi.pro/common-path-clock-reconvergence-pessimism-removal/) 
+
+![image](https://user-images.githubusercontent.com/120499567/220517641-60ec3f82-6114-4771-8251-134dda5d925e.png)
+
+[CRPR](https://chipedge.com/what-is-crpr-in-vlsi/#:~:text=What%20is%20CRPR%20in%20VLSI%20all%20about%3F,delays%20of%20clock%20network%20cells.)
+
+## Understanding the SLACK computation
+Run ‘sta run.tcl -noexit | tee out.txt'
+
+![image](https://user-images.githubusercontent.com/120499567/220538551-8243d332-bd6f-4af0-817e-cabe31d75ac6.png)
+
+![image](https://user-images.githubusercontent.com/120499567/220541664-7f633536-6413-451e-ba95-6d6745b85840.png)
+
+![image](https://user-images.githubusercontent.com/120499567/220542727-94a312c2-7a50-4fc1-91ea-cd9b3e5bbc5a.png)
+
+![image](https://user-images.githubusercontent.com/120499567/220545461-aed05da5-491b-4827-af66-ba9383c20886.png)
+
+![image](https://user-images.githubusercontent.com/120499567/220545829-1a36d855-c8cd-4499-a346-438775b6578b.png)
+
+# DAY4 THEORY
+
+
+
 
 
 
