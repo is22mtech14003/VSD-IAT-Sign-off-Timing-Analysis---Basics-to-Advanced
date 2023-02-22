@@ -423,7 +423,38 @@ so asyn pin like reset and clear its not depend on clock, let asume active low c
 
 ### Clock Groups
 
+![image](https://user-images.githubusercontent.com/120499567/220575687-1cbe9dda-a98f-4459-a619-4c4ace851f69.png)
+
+
 ![image](https://user-images.githubusercontent.com/120499567/220570297-01c00537-dfe3-4def-aa9c-3b99d39117ae.png)
+
+But the STA run on synchronus clock
+
+### Logicaly exclusive clocks 
+STA tool select at a time one clock path
+
+![image](https://user-images.githubusercontent.com/120499567/220577594-923e4f25-8b0e-4138-8cbb-ee31bb8e5e95.png)
+
+### physically exlusive Clock
+two clock will not hapen at a same time for same shematic only one clock will send , it will ot crosstalk
+but in Logically exclusive it may be cross talk
+
+![image](https://user-images.githubusercontent.com/120499567/220579247-976b7347-ae9a-4d7c-a294-96e23dc187ba.png)
+
+By default STA take synchronus clock
+
+SET_CLOCK_GROUPS
+
+![image](https://user-images.githubusercontent.com/120499567/220581560-a591c529-a3c3-46c0-8fdd-906fea25a05d.png)
+
+![image](https://user-images.githubusercontent.com/120499567/220582019-3c3f7a1e-71c2-41a1-b8fd-54234b310fac.png)
+
+
+
+
+
+
+
 
 
 
