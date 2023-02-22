@@ -330,7 +330,34 @@ Clock Latency
 
 ![image](https://user-images.githubusercontent.com/120499567/220453315-26a0f44e-ca6e-45b7-974e-76e201007557.png)
 
-Clock Jitter
+[Clock Jitter](https://vlsi.pro/clock-jitter/)
+
+thir is some uncertantinity came in ideal clock
+
+![image](https://user-images.githubusercontent.com/120499567/220509940-eec78c13-52b3-4c07-b12d-166b3c357a25.png)
+
+Setup check and clock check in details
+
+![image](https://user-images.githubusercontent.com/120499567/220510855-44ef6e52-5abc-4c64-bffa-5064b02bf60e.png)
+
+if skew is postive then we get more tmie to setup the signal and it is good but the skew is negative nd arive earlier than the clock period then it s very perimistic and it is not good
+
+![image](https://user-images.githubusercontent.com/120499567/220511908-c1272ed1-b979-4cca-a0d6-ec8e7e6cef51.png)
+
+if clock jitter is negative and skew is positive then both compensate
+
+Hold time with clock skew
+
+![image](https://user-images.githubusercontent.com/120499567/220513853-bb69c3ed-de0c-4f21-a961-88da7aad189c.png)
+
+Hold time with skew and jitter
+
+![image](https://user-images.githubusercontent.com/120499567/220514259-40a99cb5-0e91-446c-b218-7b87c16510b5.png)
+
+
+
+
+
 
 
 
