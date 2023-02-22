@@ -449,6 +449,11 @@ SET_CLOCK_GROUPS
 
 ![image](https://user-images.githubusercontent.com/120499567/220582019-3c3f7a1e-71c2-41a1-b8fd-54234b310fac.png)
 
+## Clock properties
+
+![image](https://user-images.githubusercontent.com/120499567/220599502-b76dd4aa-ba7f-4cbc-89ff-12d59ebdd597.png)
+
+
 
 
 
