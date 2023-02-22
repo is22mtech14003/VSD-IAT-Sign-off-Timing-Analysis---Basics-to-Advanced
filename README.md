@@ -531,6 +531,28 @@ Common Path Pessimism Removal(CPPR)
 
 ![image](https://user-images.githubusercontent.com/120499567/220705812-bd7d5de5-b684-4d7e-957d-91e897061cd0.png)
 
+![image](https://user-images.githubusercontent.com/120499567/220712155-897f0fbb-6ecc-4a99-b2dc-91f0c43dc977.png)
+
+![image](https://user-images.githubusercontent.com/120499567/220712155-897f0fbb-6ecc-4a99-b2dc-91f0c43dc977.png)
+
+### s27_eco.v
+
+![image](https://user-images.githubusercontent.com/120499567/220713537-a3b4d09d-6f8b-4c1a-80f2-fb96800651b5.png)
+
+### s27.v
+
+![image](https://user-images.githubusercontent.com/120499567/220724678-57eaed9f-d1f1-464f-8b8b-3a354644a9ea.png)
+
+
+### Refrence
+
+
+
+
+
+
+
+
 
 
 
