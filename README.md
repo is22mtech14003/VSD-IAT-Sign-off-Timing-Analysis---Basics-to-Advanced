@@ -385,6 +385,24 @@ Run ‘sta run.tcl -noexit | tee out.txt'
 
 # DAY4 THEORY
 
+Crosstalk - impacting dealys
+
+Crosstalk Glitches
+
+if the signal change in the same direction then dealys in the ckt can become laser 
+
+and the signal change in opposite direction then transtion can become slower and dealy is more
+
+![image](https://user-images.githubusercontent.com/120499567/220549711-6cc14ba9-20ac-48e8-ba29-42b91ea21772.png)
+
+![image](https://user-images.githubusercontent.com/120499567/220550363-604e7e9f-02e2-4665-9ee2-40bcbf686a6a.png)
+
+### Global process variation
+Can differ from one wafer to other wafer and within the wafer can be vary one die to other die so the dealy and transition time diffrent
+
+![image](https://user-images.githubusercontent.com/120499567/220552823-cd9ec021-829d-4046-9a73-24e41d06bf34.png)
+
+
 
 
 
