@@ -421,7 +421,9 @@ so asyn pin like reset and clear its not depend on clock, let asume active low c
 
 ![image](https://user-images.githubusercontent.com/120499567/220568720-e2c1382b-b966-42ba-bce3-c75f939e0eb2.png)
 
-# THEORY
+# Day 4 Lab
+
+# DAY 5 THEORY
 
 ### Clock Groups
 
