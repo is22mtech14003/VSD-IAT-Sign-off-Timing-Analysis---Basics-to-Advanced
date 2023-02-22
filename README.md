@@ -518,6 +518,11 @@ is used to specify certain portion of the designe or specify the constaint value
 
 Common Path Pessimism Removal(CPPR)
 
+![image](https://user-images.githubusercontent.com/120499567/220692461-ba30aa87-75e8-4a84-9210-850544485d7d.png)
+
+![image](https://user-images.githubusercontent.com/120499567/220698417-4265efa0-3130-4a0a-934e-b2e96b58834e.png)
+
+
 
 
 
