@@ -423,6 +423,32 @@ so asyn pin like reset and clear its not depend on clock, let asume active low c
 
 # Day 4 Lab
 
+Clock Gating Checks
+• Gating techniques illustrated is ‘Active Low Clock Gating’
+• Type ‘cd lab6’
+• Type ‘leafpad run.tcl’
+• Run ‘sta run.tcl –exit | tee run.log
+• Analyze slack on clock gating path reported
+
+
+![image](https://user-images.githubusercontent.com/120499567/220623198-eb5f4401-9d68-49f0-a016-4d00005736cf.png)
+
+![image](https://user-images.githubusercontent.com/120499567/220626315-8d057195-9036-4010-9089-9311fd162f23.png)
+
+Async Pin Checks
+• Recovery and Removal checks
+• Type ‘cd lab7’
+• Type ‘leafpad run.tcl’
+• Run ‘sta run.tcl –exit | tee run.log
+• Analyze slack reset path reported
+
+![image](https://user-images.githubusercontent.com/120499567/220638023-f119958d-16de-4827-88ad-a430a61910b6.png)
+
+![image](https://user-images.githubusercontent.com/120499567/220640089-ba450f01-5104-4214-a038-5f68302d2be6.png)
+
+
+
+
 # DAY 5 THEORY
 
 ### Clock Groups
@@ -489,6 +515,8 @@ You access this dialog box by clicking Constraints > Set Multicycle Path in the 
 is used to specify certain portion of the designe or specify the constaint value
 
 # DAY 5 LAB
+
+Common Path Pessimism Removal(CPPR)
 
 
 
