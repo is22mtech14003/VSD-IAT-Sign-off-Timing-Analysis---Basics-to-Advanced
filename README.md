@@ -468,14 +468,27 @@ from and to option can be used only one but through option can be used mpore tha
 
 set_fale_path
 
+The Set False Path ( set_false_path ) constraint allows you to exclude a path from timing analysis, such as test logic or any other path not relevant to the circuit's operatio
+
 ![image](https://user-images.githubusercontent.com/120499567/220605199-e7b92af9-d0fa-4d2e-b030-5c26aeee9f7a.png)
 
 set_multicycle path
+
+You access this dialog box by clicking Constraints > Set Multicycle Path in the TimeQuest Timing Analyzer, or with the set_multicycle_path Synopsys® Design Constraints (SDC) command. Allows you to define a path that requires more that one clock cycle to propagate data.
 
 ![image](https://user-images.githubusercontent.com/120499567/220606222-88fd7762-8dfa-4ae7-ade7-e592e797a8d3.png)
 
 
 ![image](https://user-images.githubusercontent.com/120499567/220607457-045857a9-44bf-42ca-958a-e6ae6a637ecf.png)
+
+#### set_case_analysis
+is used to specify certain portion of the designe or specify the constaint value
+
+# DAY 5 LAB
+
+
+
+
 
 
 
