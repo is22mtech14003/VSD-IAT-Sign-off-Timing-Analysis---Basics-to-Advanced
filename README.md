@@ -402,6 +402,12 @@ Can differ from one wafer to other wafer and within the wafer can be vary one di
 
 ![image](https://user-images.githubusercontent.com/120499567/220552823-cd9ec021-829d-4046-9a73-24e41d06bf34.png)
 
+### Clock getting check
+
+![image](https://user-images.githubusercontent.com/120499567/220556886-c1fa8c97-eb08-449d-8adc-a46029d346b4.png)
+
+
+
 
 
 
