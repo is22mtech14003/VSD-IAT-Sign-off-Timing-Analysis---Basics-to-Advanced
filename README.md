@@ -18,6 +18,15 @@
     + [Slew/Transition Analysis](#Slew-Transition-Analysis)
     + [Dat 2 LAB](#Dat-2-LAB)
 
+* [DAY 3 Theory](#DAY-3-Theory)
+    + []()
+
+* [DAY4 THEORY](#DAY4-THEORY)  
+    
+    
+    
+    
+
 
 
 
