@@ -19,6 +19,7 @@
     + [Dat 2 LAB](#Dat-2-LAB)
 
 * [DAY 3 Theory](#DAY-3-Theory)
+     
      +[SETup Check](#SETup-Check)
      + [DAY3 LAb](#DAY3-LAb)
 
