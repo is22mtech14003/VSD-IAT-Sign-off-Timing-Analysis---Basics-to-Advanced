@@ -19,12 +19,12 @@
     + [Dat 2 LAB](#Dat-2-LAB)
 
 * [DAY 3 Theory](#DAY-3-Theory)
-    + [DAY3 LAb](DAY3-LAb)
+     + [DAY3 LAb](#DAY3-LAb)
 
 * [DAY4 THEORY](#DAY4-THEORY)
      + [Day 4 Lab](#Day-4-Lab)
 
-* [DAY 5 THEORY](DAY-5-THEORY)
+* [DAY 5 THEORY](#DAY-5-THEORY)
      + [DAY 5 LAB](#DAY-5-LAB) 
     
     
