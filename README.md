@@ -25,7 +25,10 @@
      + [Day 4 Lab](#Day-4-Lab)
 
 * [DAY 5 THEORY](#DAY-5-THEORY)
-     + [DAY 5 LAB](#DAY-5-LAB) 
+     + [DAY 5 LAB](#DAY-5-LAB)
+
+* [Refrence](#Refrence)
+* [Acknowledgement](#Acknowledgement)
     
     
     
@@ -571,7 +574,17 @@ Common Path Pessimism Removal(CPPR)
 ![image](https://user-images.githubusercontent.com/120499567/220724678-57eaed9f-d1f1-464f-8b8b-3a354644a9ea.png)
 
 
-## [Refrence](https://github.com/vikkisachdeva/openSTA_sta_workshop/tree/master/vlsideepdive_openSTA_labs/lab6)
+## Refrence
+[vikas sir](https://github.com/vikkisachdeva/openSTA_sta_workshop/tree/master/vlsideepdive_openSTA_labs/lab6)
+
+## Acknowledgement
+
+Finally, I would like to express my sincere gratitude to [Kunal Ghosh](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/){Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd.} and [Vikas Sachdeva](https://www.linkedin.com/in/vikas-sachdeva-0849577/) {Senior Director, Product Strategy and Business Development at Real Intent} for tremendous assistance in planning and presenting this workshop on SIGN-OFF-TIMING-ANALYSIS-using-OpenLane-SKY130 organised by VSD. The workshop was excellent and well designed, this workshop taught me a lot of new things about the design timing analysis using OpenSTA, open source tool.
+
+## Inquiries
+
+- Connect with me at [Linkedin](https://www.linkedin.com/feed/)
+
 
 
 
