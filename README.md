@@ -15,6 +15,8 @@
 
 * [DAY 2 Theory](#DAY-2-Theory)
     + [Clock geeting](#Clock-geeting)
+    + [Slew/Transition Analysis](#Slew/Transition-Analysis)
+    + [Dat 2 LAB](#Dat-2-LAB)
 
 
 
