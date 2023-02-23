@@ -575,7 +575,11 @@ Common Path Pessimism Removal(CPPR)
 
 
 ## Refrence
-[vikas sir](https://github.com/vikkisachdeva/openSTA_sta_workshop/tree/master/vlsideepdive_openSTA_labs/lab6)
+- [vikas sir](https://github.com/vikkisachdeva/openSTA_sta_workshop/tree/master/vlsideepdive_openSTA_labs/lab6)
+- [OpenSTA Manual](https://github.com/The-OpenROAD-Project/OpenSTA/blob/master/doc/OpenSTA.pdf)
+- [Open Installation Guide](https://github.com/The-OpenROAD-Project/OpenSTA)
+- [https://www.synopsys.com/glossary/what-is-static-timing-analysis.html](https://www.synopsys.com/glossary/what-is-static-timing-analysis.html)
+- [https://github.com/Anmol-wq/VSD-IAT-Sign-off-Timing-Analysis---Basics-to-Advanced](https://github.com/Anmol-wq/VSD-IAT-Sign-off-Timing-Analysis---Basics-to-Advanced)
 
 ## Acknowledgement
 
