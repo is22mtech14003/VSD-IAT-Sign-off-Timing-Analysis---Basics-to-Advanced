@@ -19,9 +19,13 @@
     + [Dat 2 LAB](#Dat-2-LAB)
 
 * [DAY 3 Theory](#DAY-3-Theory)
-    + []()
+    + [DAY3 LAb](DAY3-LAb)
 
-* [DAY4 THEORY](#DAY4-THEORY)  
+* [DAY4 THEORY](#DAY4-THEORY)
+     + [Day 4 Lab](#Day-4-Lab)
+
+* [DAY 5 THEORY](DAY-5-THEORY)
+     + [DAY 5 LAB](#DAY-5-LAB) 
     
     
     
@@ -390,6 +394,8 @@ Lunch path should be minimum and captured path should be maximum dealy
 ![image](https://user-images.githubusercontent.com/120499567/220517641-60ec3f82-6114-4771-8251-134dda5d925e.png)
 
 [CRPR](https://chipedge.com/what-is-crpr-in-vlsi/#:~:text=What%20is%20CRPR%20in%20VLSI%20all%20about%3F,delays%20of%20clock%20network%20cells.)
+
+## DAY3 LAb
 
 ## Understanding the SLACK computation
 Run ‘sta run.tcl -noexit | tee out.txt'
