@@ -20,18 +20,18 @@
 
 * [DAY 3 Theory](#DAY-3-Theory)
      + [SETup Checks](#SETup-Checks)
-     + [Cell Delays](#Cell Delays)
+     + [Cell Delays](#Cell-Delays)
      + [DAY3 LAb](#DAY3-LAb)
 
 * [DAY4 THEORY](#DAY4-THEORY)
      + [Day 4 Lab](#Day-4-Lab)
-     + [Global process variation](#Global process variation)
-     + [Clock getting check](#Clock getting check)
+     + [Global process variation](#Global-process-variation)
+     + [Clock getting check](#Clock-getting-check)
 
 * [DAY 5 THEORY](#DAY-5-THEORY)
      + [DAY 5 LAB](#DAY-5-LAB)
-     + [Clock Groups](#Clock Groups)
-     + [Clock properties](#Clock properties)
+     + [Clock Groups](#Clock-Groups)
+     + [Clock properties](#Clock-properties)
 
 * [Refrence](#Refrence)
 * [Acknowledgement](#Acknowledgement)
