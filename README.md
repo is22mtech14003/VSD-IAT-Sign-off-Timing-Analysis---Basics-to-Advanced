@@ -19,14 +19,19 @@
     + [Dat 2 LAB](#Dat-2-LAB)
 
 * [DAY 3 Theory](#DAY-3-Theory)
-     + [SETup Check](#SETup-Check)
+     + [SETup Checks](#SETup-Checks)
+     + [Cell Delays](#Cell Delays)
      + [DAY3 LAb](#DAY3-LAb)
 
 * [DAY4 THEORY](#DAY4-THEORY)
      + [Day 4 Lab](#Day-4-Lab)
+     + [Global process variation](#Global process variation)
+     + [Clock getting check](#Clock getting check)
 
 * [DAY 5 THEORY](#DAY-5-THEORY)
      + [DAY 5 LAB](#DAY-5-LAB)
+     + [Clock Groups](#Clock Groups)
+     + [Clock properties](#Clock properties)
 
 * [Refrence](#Refrence)
 * [Acknowledgement](#Acknowledgement)
@@ -308,7 +313,7 @@ Here slack is violated
 
 # DAY 3 Theory
 
-SETup Check
+SETup Checks
 
 ![image](https://user-images.githubusercontent.com/120499567/220438877-3421bc7d-6547-40bd-96ad-4a5c050a99a1.png)
 
