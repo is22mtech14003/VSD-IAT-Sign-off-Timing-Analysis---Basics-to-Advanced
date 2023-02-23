@@ -13,6 +13,10 @@
     + [Slack](#Slack)
     + [DAY 1 LAB](#DAY-1-LAB)
 
+* [DAY 2 Theory](#DAY-2-Theory)
+    + [Clock geeting](#Clock-geeting)
+
+
 
 
 
